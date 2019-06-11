@@ -1,0 +1,2 @@
+# tenbit-notes
+📔notes
